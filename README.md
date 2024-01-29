@@ -1,12 +1,6 @@
 <h1>Memento Spark</h1>
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=CGWQxCNp1F0" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=CGWQxCNp1F0"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![Youtube Video: https://www.youtube.com/watch?v=CGWQxCNp1F0](https://img.youtube.com/vi/CGWQxCNp1F0/0.jpg)](https://www.youtube.com/watch?v=CGWQxCNp1F0)
 
 <h2>Inspiration</h2>
 We were inspired by us forgetting our own good memories, Memento Spark will allow us to remember them for the future. We also got inspiration from paper diaries and scrap books, but since those can be lost or damaged, along with the memories stored in them, we wanted to create a digital version of those where the memories will never be lost!
